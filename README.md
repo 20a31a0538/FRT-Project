@@ -22,16 +22,32 @@ This is a web-based application developed for people who want to cure their dise
 
 
 
+### Home - 
 
+![Home](https://github.com/20a31a0538/FRT-Project/assets/110081197/cedf6ae8-85ff-4c48-af90-d26ba77b7323)
 
 
 ### About Us -
 
+![about us](https://github.com/20a31a0538/FRT-Project/assets/110081197/d3e94f0f-d1f1-403c-9caa-2f9ca017f0d8)
+
+### Services -
+
+![service 1](https://github.com/20a31a0538/FRT-Project/assets/110081197/25f1602f-6985-4aae-8335-22a4790ae314)
 
 
 
+![service2](https://github.com/20a31a0538/FRT-Project/assets/110081197/70eb4c1e-dd15-4431-ae32-0cbcc6a47bfc)
 
-### Privacy policy -
+### Contact Us -
+![contact us](https://github.com/20a31a0538/FRT-Project/assets/110081197/84c6544a-beca-4ffe-8ffc-71e8f479014f)
+
+
+### Health Bot -
+
+
+![health bot](https://github.com/20a31a0538/FRT-Project/assets/110081197/2bc290b2-b060-447e-8db8-c638c5de47e8)
+
 
 
 
