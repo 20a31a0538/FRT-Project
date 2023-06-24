@@ -9,6 +9,18 @@ This is a web-based application developed for people who want to cure their dise
 
 **Project Video Link** -
 
+**Industry Type** - Health
+
+**Project Title** - Natural Beauty
+
+**Problem Statement/ Opportunity** - Everyone wants to grow their beauty naturally. So, we saw an opportunity here that we can provide information and our services to whom wants it.
+
+**Project Description** -  we provided good information about Natural Beauty. Also, we give our services to people who want it such as Homeopathy, Aromatherapy. Also, we give hair styling services and make-up services. This website helps a lot for those who are searching for beauty services and information.
+
+**Primary Azure Technology** - 
+1. Static Web-Apps
+2. Health Bots
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
