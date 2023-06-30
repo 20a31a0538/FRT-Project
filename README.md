@@ -7,7 +7,7 @@ This is a web-based application developed for people who want to cure their dise
 
 **Project Link** - https://jolly-wave-06e988700.3.azurestaticapps.net
 
-**Project Video Link** -
+**Project Video Link** -  https://youtu.be/hrO0fEg6nsA
 
 **Industry Type** - Health
 
