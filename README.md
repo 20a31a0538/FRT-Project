@@ -2,7 +2,7 @@
 
 This is a web-based application developed for people who want to cure their disease by using natural phenomena like homeopathy.
 
-### This web-based restaurant application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
+### This web-based nature beauty application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 
 **Project Link** - https://jolly-wave-06e988700.3.azurestaticapps.net
